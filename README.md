@@ -1,3 +1,6 @@
-# Demo-Two
-This is the demo git
-New is hear
+# Demo
+Giới thiệu bằng tiếng Việt
+"Xin chào, tôi tên là X, hiện đang được đào tạo về Automation Tester tại công ty Y. Trong quá trình đào tạo, tôi đã thực hành kiểm thử End-to-End bằng các công cụ như Selenium, WebdriverIO, và Playwright. Đối với kiểm thử API, tôi sử dụng RestAssured. Gần đây nhất, tôi đã tham gia vào một dự án demo sử dụng Playwright kết hợp với Cucumber để viết các test case theo phương pháp BDD. Tôi cũng đã làm quen với mô hình Agile, bao gồm các hoạt động như Sprint Planning, Daily Meetings, và Retrospectives. Ngoài ra, tôi đã tìm hiểu về CI/CD và hiện đang làm việc với dự án Selenium + TestNG."
+
+Giới thiệu bằng tiếng Anh
+"Hello, my name is X, and I am currently undergoing Automation Tester training at Company Y. During my training, I have been practicing End-to-End Testing using tools like Selenium, WebdriverIO, and Playwright. For API Testing, I use RestAssured. Most recently, I worked on a demo project using Playwright combined with Cucumber to write test cases in a BDD approach. I have also familiarized myself with the Agile methodology, including activities such as Sprint Planning, Daily Meetings, and Retrospectives. Additionally, I have explored CI/CD and am currently working on a Selenium + TestNG project."
